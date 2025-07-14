@@ -1,0 +1,7 @@
+streamlit
+huggingface_hub
+matplotlib
+wordcloud
+qrcode
+pillow
+PyPDF2 
