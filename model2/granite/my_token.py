@@ -1,4 +1,4 @@
-tokens = ["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", "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"]
+tokens = ["hf_token", "hf_token"]
 current_token = 0
 
 def rotate_token():
